@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.7c8b6e5e9a86eee19737247616412203.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.817fb34634a85624ee7e4659d51afc5f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.2fd780213127147d654ba7f7daca21de.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a437b6ff3a8ba03931ee1db397359d3a.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9a1e34cc76430aa01926cb30479f3e87.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Simples Loja de Crédito",
+  "short_name": "simpleslojadecredito",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "simpleslojadecredito",
+  "background_color": "#ffffff",
+  "theme_color": "#2b6eb6"
+}
